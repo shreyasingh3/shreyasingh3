@@ -1,15 +1,15 @@
-# Hi, I'm Shreya Singh! 
-
-I'm a senior at UC Berkeley studying Data science + Cognitive science, and I'm really interested in Machine Learning + Data Systems + Software Engineering.
-
-I like building things end-to-end, from data ingestion and cleaning to modeling and user-facing tools.
+<h1 align="center">Hi, I'm Shreya Singh</h1>
+<p align="center">
+  Senior @ UC Berkeley • Data Science + Cognitive Science <br>
+  Interested in ML, data systems, and building things that actually get used!
+</p>
 
 ---
 
 ## What I'm working on
 
 - Building ML pipelines to parse and structure unstructured data (emails, PDFs, etc.)
-- Experimenting with LLM-based systems + agent-style workflows  
+- Experimenting with LLM-based systems and agent-style workflows  
 - Working on predictive models using real-world datasets (like F1 race data)
 
 ---
@@ -17,41 +17,45 @@ I like building things end-to-end, from data ingestion and cleaning to modeling 
 ## Projects
 
 **AI Email Processing Pipeline**  
-Built a system to extract structured data from messy logistics emails using LLMs + Postgres. Focused on making the pipeline reliable and actually usable, not just a demo.
+Built a system to extract structured data from messy logistics emails using LLMs + Postgres. Focused on making the pipeline reliable and usable, not just a demo.
+
+<br>
 
 **Minecraft Agent Evaluation Framework**  
 Worked on evaluating AI agents in a simulated environment, including tracking progress toward goals and designing better scoring methods.
 
+<br>
+
 **F1 Race Prediction**  
-Used historical race data to engineer features and train models to predict race outcomes. Spent a lot of time figuring out what actually matters (driver form, track history, etc.)
+Used historical race data to engineer features and train models to predict race outcomes. Focused on understanding what actually matters (driver form, track history, etc.)
 
 ---
 
-## Tech I use
+## Tech
 
-Python, SQL, JavaScript  
-Pandas, scikit-learn, Matplotlib  
-React, Next.js, Postgres  
-Git, Jupyter  
+**Languages:** Python, SQL, JavaScript  
+**ML/Data:** Pandas, scikit-learn, Matplotlib  
+**Tools:** Git, Jupyter, Postgres  
+**Web:** React, Next.js  
 
 ---
 
-## What I'm interested in
+## Interests
 
 - ML engineering  
 - Data pipelines + backend systems  
 - NLP / LLM applications  
-- Building things that actually get used  
+- Real-world ML (not just notebooks)
 
 ---
 
-## More about me
+## Outside of tech
 
-I'm also into motorsports (big F1 fan), mixing music, baking, and random side projects when I have time!
+Motorsports (F1), baking, mixing music, and random side projects
 
 ---
 
-## Links
+## 📫 Links
 
-LinkedIn: https://www.linkedin.com/in/shreyasingh3/  
-GitHub: https://github.com/shreyasingh3  
+- LinkedIn: https://www.linkedin.com/in/shreyasingh3/  
+- GitHub: https://github.com/shreyasingh3  
